@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain_community
+langchainhub
+ipykernel
+langchain_groq
+phidata
+yfinance
+packaging 
+duckduckgo-search 
+fastapi 
+uvicorn 
+groq
+openai
+pydantic
