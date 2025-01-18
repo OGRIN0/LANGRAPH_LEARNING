@@ -13,3 +13,4 @@ uvicorn
 groq
 openai
 pydantic
+chromadb
